@@ -1,9 +1,6 @@
 
 #Linear Regression Program
-#Sharandeep
-#102018020
-#CSBS-
-
+#Sharandeep Singh
 
 
 import numpy as np
